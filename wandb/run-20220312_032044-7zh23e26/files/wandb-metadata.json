@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.4.144+-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.7.12",
+    "heartbeatAt": "2022-03-12T03:20:48.119954",
+    "startedAt": "2022-03-12T03:20:44.114338",
+    "docker": null,
+    "gpu": "Tesla P100-PCIE-16GB",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--amp"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/luongdangvp2000/Pytorch-UNet.git",
+        "commit": "9a6ee84c50390306e24bb369d1c24d2fdd9d7e60"
+    },
+    "email": "luongdangvp2000@gmail.com",
+    "root": "/content/Pytorch-UNet",
+    "host": "b1ea749196ee",
+    "username": "root",
+    "executable": "/usr/bin/python3"
+}
